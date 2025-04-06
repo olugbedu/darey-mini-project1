@@ -84,6 +84,7 @@ git config --list
 ![](./assets/git-landing.png)
 
 ![Git bash](./assets/git-bash.png)
+![](./assets/git-commands.png)
 #
 #
 # Installation of Virtual Box (Oracle Virtual Box)
